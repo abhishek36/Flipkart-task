@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "product": "shirt",
+    "imageURL": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1668304/2016/12/21/11482308411036-True-Blue-Men-Navy-Blue-Regular-Fit-Printed-Casual-Shirt-5651482308410830-2.jpg",
+    "price": 700,
+    "gender": "M",
+    "size": "L"
+  },
+  {
+    "id": 2,
+    "product": "shirt",
+    "imageURL": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/8/2/a79b23b2-1238-4a46-9c7f-1a724149c5971564748161645-2.jpg",
+    "price": 800,
+    "gender": "M",
+    "size": "M"
+  },
+  {
+    "id": 3,
+    "product": "t shirt",
+    "imageURL": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10360905/2019/8/9/9d52bce3-1562-495f-85b9-0adefe887f081565349751512-HM-Men-White-Solid-Cotton-T-shirt-1901565349750940-1.jpg",
+    "price": 300,
+    "gender": "M",
+    "size": "XL"
+  },
+  {
+    "id": 4,
+    "product": "Sari",
+    "imageURL": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9658739/2019/6/4/957bd661-c631-4584-9cfc-3d666e6a091f1559621715971-Saree-mall-Grey-Printed-Silk-Cotton-Saree-9251559621714356-2.jpg",
+    "price": 2500,
+    "gender": "F",
+    "size": "M"
+  },
+  {
+    "id": 5,
+    "product": "Saari",
+    "imageURL": "https://th.bing.com/th/id/OIP.WQRPgdqsMv4JEjQb5XUw_gHaKL?pid=ImgDet&rs=1",
+    "price": 3000,
+    "gender": "F",
+    "size": "L"
+  },
+  {
+    "id": 6,
+    "product": "Dress",
+    "imageURL": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10759826/2019/10/11/6a5b3c18-b69b-4a83-9959-0bc7666483f61570789559334-RANGMAYEE-Women-Dresses-3511570789558318-1.jpg",
+    "price": 50000,
+    "gender": "F",
+    "size": "S"
+  },
+  {
+    "id": 7,
+    "product": "Kurti",
+    "imageURL": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/4326336/2018/3/29/11522319305333-GERUA-Women-Kurtis-7851522319305173-2.jpg",
+    "price": 1100,
+    "gender": "F",
+    "size": "XL"
+  },
+  {
+    "id": 8,
+    "product": "Sherwani",
+    "imageURL": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/12/7/f1eb064a-69d9-4e27-a109-31bd91c6c0d11607343829543-1.jpg",
+    "price": 3000,
+    "gender": "M",
+    "size": "L"
+  },
+  {
+    "id": 9,
+    "product": "Kurti",
+    "imageURL": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/11/27/e54ffdf0-157b-4a3f-99c8-b50f81b15c6b1606479908585-1.jpg",
+    "price": 6000,
+    "gender": "M",
+    "size": "XL"
+  },
+  {
+    "id": 10,
+    "product": "Jacket",
+    "imageURL": "https://th.bing.com/th/id/OIP.qmtEDVXt8WA9DhoKlu4TeQHaLH?pid=ImgDet&rs=1",
+    "price": 3700,
+    "gender": "M",
+    "size": "L"
+  },
+  {
+    "id": 11,
+    "product": "Jacket",
+    "imageURL": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/5393184/2018/11/9/5d828cee-d79e-4ef0-bedb-7dd47224f6ac1541746620849-Roadster-Women-Jackets-3551541746620680-1.jpg",
+    "price": 4570,
+    "gender": "F",
+    "size": "S"
+  },
+  {
+    "id": 12,
+    "product": "Rain Coat",
+    "imageURL": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9658541/2019/6/1/052dc379-2a26-4d7e-b1cf-b3256e6dbf271559385575048-Rain_Cheater-EcoDark_Gry-5171559385573873-1.jpg",
+    "price": 2800,
+    "gender": "M",
+    "size": "M"
+  },
+  {
+    "id": 13,
+    "product": "Rain coat",
+    "imageURL": "https://cdnc.lystit.com/photos/na-kd/e43e48f3/na-kd-designer-Camo-Camo-Rain-Coat-Camo.jpeg",
+    "price": 3300,
+    "gender": "F",
+    "size": "XL"
+  }
+]
